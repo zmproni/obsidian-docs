@@ -1,3 +1,4 @@
+# Personal theme setup instructions
 ## Current Setup
 
 *Figure 1: Theme preview*
