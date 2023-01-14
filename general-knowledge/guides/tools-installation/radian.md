@@ -61,6 +61,9 @@ It is suggested you verify the installation of R after running the above code.
 This snippet will install the package that allows for compilation of R packages. 
 ```bash
 sudo apt install build-essential
+# Important for installation of future packages like tidyverse
+sudo apt-get install r-cran-curl r-cran-openssl r-cran-xml2
+sudo apt-get install r-base-dev xml2 libxml2-dev libssl-dev libcurl4-openssl-dev unixodbc-dev cmake
 ```
 This should be the last dependency required before installing radian. 
 
