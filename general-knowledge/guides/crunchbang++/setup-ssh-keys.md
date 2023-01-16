@@ -1,7 +1,13 @@
 # How to set up SSH key authentication for GitHub on a Debian OS
 
 ## Purpose 
-I made this article to document the steps taken to setup GitHub authentication with SSH on my CrunchBang++ (#!++) OS I recently switched to.
+I made this article to document the steps taken to setup GitHub authentication with SSH on my CrunchBang++ (#!++) OS I recently switched to. Using SSH authentication for GitHub offers several benefits over other authentication methods, such as HTTPS or using a personal access token.
+1.  Security: SSH keys provide an additional layer of security as they are based on public-key cryptography, which makes it much more difficult for someone to gain unauthorised access to your account.
+2.  Convenience: With SSH authentication, you can authenticate with GitHub without having to enter your username and password every time you push or pull from a repository.
+3.  Versatility: SSH keys can be used for other services as well, not only for GitHub.
+4.  Auditing: SSH keys can be easily revoked and auditing the access can be done easily
+
+In summary, SSH authentication is more secure and convenient than other authentication methods, and can also be used for other services as well.
 
 ## Steps
 1. Generate a key
