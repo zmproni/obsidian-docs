@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ae5c504863b3521",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheat-sheet/debian/terminal-commands.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/crunchbang++/setup-ssh-keys.md",
+                "file": "cheat-sheet/debian/terminal-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/crunchbang++/setup-ssh-keys.md",
+                "file": "cheat-sheet/debian/terminal-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guides/crunchbang++/setup-ssh-keys.md"
+                "file": "cheat-sheet/debian/terminal-commands.md"
               }
             }
           },
@@ -156,17 +170,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7235ba692c1afcb8",
+  "active": "4ae5c504863b3521",
   "lastOpenFiles": [
+    "cheat-sheet/debian/files.md",
     "guides/crunchbang++/theme-installation.md",
+    "ideas/md-to-medium-article-typewriter.md",
+    "guides/crunchbang++/setup-ssh-keys.md",
     "guides/crunchbang++/set-up-custom-dns.md",
     "guides/crunchbang++/img/context-menu-openbox.webp",
     "guides/crunchbang++/img/theme-showcase-2.webp",
     "guides/crunchbang++/img/theme-showcase-1.webp",
-    "guides/crunchbang++/setup-ssh-keys.md",
     "guides/tools-installation/radian-vscode.md",
-    "guides/tools-installation/radian.md",
-    "academic/visual-analytics/visual-idioms/tables/bar-chart.md",
-    "academic/visual-analytics/visual-idioms/tables/stacked-bar-charts.md"
+    "guides/tools-installation/radian.md"
   ]
 }
