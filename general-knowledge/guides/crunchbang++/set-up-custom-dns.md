@@ -1,6 +1,6 @@
-# How to set up a custom DNS on your linux system
+# How to set up a custom DNS on your Debian OS
 
-In linux distros, the usual file that is used to configure the system's Domain Name Server (DNS) resolver is located at and called [/etc/resolv.conf](debian/files). By editing the contents of the file we should be able to change the DNS resolver the system connects to with a custom value. 
+In Debian based distros, the usual file that is used to configure the system's Domain Name Server (DNS) resolver is located at and called [/etc/resolv.conf](debian/files). By editing the contents of the file we should be able to change the DNS resolver the system connects to with a custom value. 
 
 My personal favourite DNS resolver is Cloudflare's '1.1.1.1'. It advertises one of the fastest speeds, and privacy. Two side effects of using this Cloudflare's DNS server are: it opens up access to some sites blocked by ISPs as well as reduce latency in certain games and website loading. 
 

@@ -36,7 +36,6 @@ You can see above, by hovering over `Settings > Openbox > GUI Config Tool`  you 
 5. Click close
 
 ### GDK+ 
-
 In order to access the GDK+ customization option is that we <kbd>Super</kbd> + <kbd>Space</kbd> and navigate to `Settings > User Interface Settings` .
 
 #### Orchis-Dark Installation

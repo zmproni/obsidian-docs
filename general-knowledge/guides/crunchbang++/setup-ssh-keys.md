@@ -1,11 +1,7 @@
 # How to set up SSH key authentication for GitHub on a Debian OS
 
-## Requirements 
-- open-ssh package
-Most linux distros come pre-installed with the openssh package, in case yours does not:
-```bash
-sudo apt install openssh
-```
+## Purpose 
+I made this article to document the steps taken to setup GitHub authentication with SSH on my CrunchBang++ (#!++) OS I recently switched to.
 
 ## Steps
 1. Generate a key
@@ -50,7 +46,7 @@ The Identity file should point to your private ssh key. If you changed the name 
 Once you're done, save and exit the file. 
 
 4. Enter your public key into Github 
-Go to [https://github.com/settings/ssh/new](https://github.com/settings/ssh/new) this link should directly take you to your account's add new ssh key page. For manual navigation you can login if you haven't already and go to your account settings page. Under `SSH and GPG keys` you should see a bright green button with the words "New SSH key". Click the button and you should be redirected to the add new ssh key page. 
+To add a new SSH key on GitHub, go to [https://github.com/settings/ssh/new](https://github.com/settings/ssh/new) or login and navigate to your account settings, under "SSH and GPG keys" click on "New SSH key" button.
 
 **Title**: stands for the name you want to give the key, it is up to you how you decide to identify your SSH keys. Eg: The name of your machine. 
 

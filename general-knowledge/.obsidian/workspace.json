@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1d688f405a40242a",
+        "id": "a382a29eb49e89d8",
         "type": "tabs",
         "children": [
           {
-            "id": "72f8c9b05cc7dbd4",
+            "id": "7235ba692c1afcb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72f8c9b05cc7dbd4",
+  "active": "7235ba692c1afcb8",
   "lastOpenFiles": [
     "guides/crunchbang++/theme-installation.md",
-    "academic/visual-analytics/visual-idioms/tables/bar-chart.md",
-    "academic/visual-analytics/visual-idioms/tables/stacked-bar-charts.md",
-    "academic/visual-analytics/visual-idioms/tables/scatterplots.md",
-    "academic/visual-analytics/visual-idioms/tables/indexed-line-charts.md",
+    "guides/crunchbang++/set-up-custom-dns.md",
+    "guides/crunchbang++/img/context-menu-openbox.webp",
+    "guides/crunchbang++/img/theme-showcase-2.webp",
+    "guides/crunchbang++/img/theme-showcase-1.webp",
     "guides/crunchbang++/setup-ssh-keys.md",
-    "academic/visual-analytics/visual-idioms/tables/dot-line-chart.md",
-    "academic/visual-analytics/visual-idioms/tables/streamgraph.md",
-    "academic/visual-analytics/visual-idioms/idiom-considerations.md",
-    "academic/visual-analytics/data-types/tables.md"
+    "guides/tools-installation/radian-vscode.md",
+    "guides/tools-installation/radian.md",
+    "academic/visual-analytics/visual-idioms/tables/bar-chart.md",
+    "academic/visual-analytics/visual-idioms/tables/stacked-bar-charts.md"
   ]
 }
