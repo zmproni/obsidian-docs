@@ -1,4 +1,8 @@
 {
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_attachments",
+  "newLinkFormat": "shortest"
 }

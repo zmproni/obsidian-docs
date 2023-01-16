@@ -7,7 +7,7 @@ I want to run R on my code editor of choice "VSCode" and be able to run .Rmd fil
 - `Python` (version 3.6 or above)
 - `pip` (optional)
 
-## Debian 11
+## [Debian](debian) 11
 ### Installing Python 3
 This code verifies the installation of python. Run it before and after running the installation to make sure python is installed correctly. 
 ```bash

@@ -1,3 +1,5 @@
+# Git commands cheat sheet
+
 ## $ git init
 ```bash
 # git init [repository-name]
