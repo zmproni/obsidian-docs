@@ -4,102 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "794d3d289d2a16f0",
+        "id": "1d688f405a40242a",
         "type": "tabs",
         "children": [
           {
-            "id": "e78f51e0a287e167",
+            "id": "72f8c9b05cc7dbd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/bar-chart.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6277bc94efad87d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/stacked-bar-charts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27db4fc7e1e09e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/streamgraph.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c40ce3d26a1bda8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/bar-chart.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e664ac880981a4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/indexed-line-charts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "789b7559933d2578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/scatterplots.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50fef1ed58c24349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/bar-chart.md",
+                "file": "guides/crunchbang++/setup-ssh-keys.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/indexed-line-charts.md",
+                "file": "guides/crunchbang++/setup-ssh-keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/indexed-line-charts.md",
+                "file": "guides/crunchbang++/setup-ssh-keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "academic/visual-analytics/visual-idioms/tables/indexed-line-charts.md"
+                "file": "guides/crunchbang++/setup-ssh-keys.md"
               }
             }
           },
@@ -235,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e664ac880981a4b",
+  "active": "72f8c9b05cc7dbd4",
   "lastOpenFiles": [
+    "guides/crunchbang++/theme-installation.md",
     "academic/visual-analytics/visual-idioms/tables/bar-chart.md",
-    "academic/visual-analytics/visual-idioms/tables/dot-line-chart.md",
     "academic/visual-analytics/visual-idioms/tables/stacked-bar-charts.md",
+    "academic/visual-analytics/visual-idioms/tables/scatterplots.md",
+    "academic/visual-analytics/visual-idioms/tables/indexed-line-charts.md",
+    "guides/crunchbang++/setup-ssh-keys.md",
+    "academic/visual-analytics/visual-idioms/tables/dot-line-chart.md",
     "academic/visual-analytics/visual-idioms/tables/streamgraph.md",
     "academic/visual-analytics/visual-idioms/idiom-considerations.md",
-    "academic/visual-analytics/data-types/tables.md",
-    "academic/visual-analytics/visual-idioms/tables/scatterplots.md",
-    "academic/visual-analytics/rules-of-thumb.md",
-    "academic/visual-analytics/data-types/networks.md",
-    "academic/visual-analytics/visual-idioms/node-link-tree.md"
+    "academic/visual-analytics/data-types/tables.md"
   ]
 }
