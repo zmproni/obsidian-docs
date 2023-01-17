@@ -45,3 +45,12 @@ Shows lines added, removed and modified for the file specified.
 git clone https://github.com/zmproni/obsidian-docs.git
 ```
 
+## $ git reset -hard
+```bash
+git reset -hard
+```
+
+## $ git clean -fxd
+```bash
+git clean -fxd
+```
