@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "3045b5c594d3f253",
+        "id": "7ecd9428a53017f1",
         "type": "tabs",
         "children": [
           {
-            "id": "24efda0c2f8ad301",
+            "id": "fe8623788f705767",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheat-sheet/git-commands.md",
+                "file": "academic/machine-learning/supervised-models/memorization-methods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7fbae4d8a051605",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "academic/machine-learning/Topics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6b880a95c2e9c46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "academic/machine-learning/supervised-models/linear-regression.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c71f94c3fac3f7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "academic/machine-learning/supervised-models/linear-regression.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -86,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheat-sheet/git-commands.md",
+                "file": "academic/machine-learning/supervised-models/linear-regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheat-sheet/git-commands.md",
+                "file": "academic/machine-learning/supervised-models/linear-regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheat-sheet/git-commands.md"
+                "file": "academic/machine-learning/supervised-models/linear-regression.md"
               }
             }
           },
@@ -138,7 +178,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,17 +197,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "24efda0c2f8ad301",
+  "active": "9c71f94c3fac3f7a",
   "lastOpenFiles": [
-    "guides/crunchbang++/setup-ssh-keys.md",
-    "guides/crunchbang++/theme-installation.md",
-    "guides/crunchbang++/set-up-custom-dns.md",
-    "cheat-sheet/debian/terminal-commands.md",
-    "cheat-sheet/debian/files.md",
-    "ideas/md-to-medium-article-typewriter.md",
-    "guides/crunchbang++/img/context-menu-openbox.webp",
-    "guides/crunchbang++/img/theme-showcase-2.webp",
-    "guides/crunchbang++/img/theme-showcase-1.webp",
-    "guides/tools-installation/radian-vscode.md"
+    "academic/machine-learning/Topics.md",
+    "academic/machine-learning/supervised-models/memorization-methods.md",
+    "academic/machine-learning/supervised-models/multiple-linear-regression.md",
+    "academic/machine-learning/supervised-models/linear-regression.md",
+    "academic/machine-learning/supervised-models/naive-bayes.md",
+    "cheat-sheet/git-commands.md",
+    "academic/git/git.md",
+    "academic/machine-learning/model-validation/model-validation.md",
+    "model-vali.md",
+    "academic/machine-learning/model-evaluation/classification/confusion-matrix.md"
   ]
 }
