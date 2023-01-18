@@ -37,7 +37,7 @@ If the class you wanted to calculate the metric for was Class 2:
 | **Class 2**        | FP  | TP | FP  |
 | **Class 3**        | c | FN | d    |
 
-All other [[model-evaluation|classification task evaluation]] matrix derive their values based on the confusion matrix.
+All other [[_model-evaluation|classification task evaluation]] matrix derive their values based on the confusion matrix.
 - [[accuracy|Accuracy]]
 - [[precision|Precision]]
 - [[recall|Recall]]

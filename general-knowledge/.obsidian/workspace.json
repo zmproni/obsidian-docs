@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe8623788f705767",
+            "id": "0af94df225fd4b9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academic/machine-learning/supervised-models/memorization-methods.md",
+                "file": "academic/machine-learning/topics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,38 +21,12 @@
             }
           },
           {
-            "id": "d7fbae4d8a051605",
+            "id": "b47dd34436b7bcc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academic/machine-learning/Topics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6b880a95c2e9c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/machine-learning/supervised-models/linear-regression.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c71f94c3fac3f7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/machine-learning/supervised-models/linear-regression.md",
+                "file": "academic/machine-learning/revision-topics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "academic/machine-learning/supervised-models/linear-regression.md",
+                "file": "academic/machine-learning/revision-topics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "academic/machine-learning/supervised-models/linear-regression.md",
+                "file": "academic/machine-learning/revision-topics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "academic/machine-learning/supervised-models/linear-regression.md"
+                "file": "academic/machine-learning/revision-topics.md"
               }
             }
           },
@@ -197,17 +171,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c71f94c3fac3f7a",
+  "active": "b47dd34436b7bcc4",
   "lastOpenFiles": [
-    "academic/machine-learning/Topics.md",
-    "academic/machine-learning/supervised-models/memorization-methods.md",
-    "academic/machine-learning/supervised-models/multiple-linear-regression.md",
-    "academic/machine-learning/supervised-models/linear-regression.md",
-    "academic/machine-learning/supervised-models/naive-bayes.md",
-    "cheat-sheet/git-commands.md",
-    "academic/git/git.md",
-    "academic/machine-learning/model-validation/model-validation.md",
-    "model-vali.md",
-    "academic/machine-learning/model-evaluation/classification/confusion-matrix.md"
+    "academic/machine-learning/hypothesis-testing/type-1-error.md",
+    "academic/machine-learning/revision-topics.md",
+    "academic/machine-learning/terminology_dictionary.md",
+    "academic/machine-learning/topics.md",
+    "academic/machine-learning/model-validation/_model-validation.md",
+    "academic/machine-learning/supervised-models/_memorization-methods.md",
+    "academic/machine-learning/model-evaluation/classification/precision.md",
+    "academic/machine-learning/model-evaluation/regression/R2.md",
+    "academic/machine-learning/model-evaluation/_model-evaluation.md",
+    "academic/machine-learning/supervised-models/linear-regression.md"
   ]
 }

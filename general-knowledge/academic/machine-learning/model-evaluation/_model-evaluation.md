@@ -1,5 +1,7 @@
 # Choosing Model Evaluation Techniques 
 
+> Model evaluation the act of measuring of the model's performance given the business goal and modelling technique 
+
 Mapping problem to machine learning task -> Evaluating model -> Validating model
 
 | Model evaluation                                                                     | Model validation                                             |
@@ -31,7 +33,7 @@ The following are the techniques used to evaluate classification models:
 Regression tasks focus on predicting a continuous value such as the house price based on its facilities, neighbourhood, size, etc. 
 
 Techniques used: 
-- R-squared (R2) 
+- [[R2|R-squared (R2)]] 
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Error (MAE)
 

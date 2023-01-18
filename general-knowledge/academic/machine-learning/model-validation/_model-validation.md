@@ -1,4 +1,7 @@
 # Cross-validation Methods
+
+> Validation is the general assurance that the model will perform as well as it worked during training 
+
 Cross-validation is a technique where data is divided such that it is possible to use the various subsets of data to train and evaluate the performance of a model. Cross-validation allows users to assess the performance of a model, tune mode parameters, help decide which model performs best and even help train a model. There are various techniques to cross-validation and each have their benefits and downsides. The specific ones that will be discussed are:
 - [**Hold-out validation**](hold-out-validation.md)
 - [**K-fold cross validation**](k-fold-validation.md)
