@@ -4,22 +4,74 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "7be7d64ae89cada5",
         "type": "tabs",
         "children": [
           {
             "id": "94e6ccd3264ddb55",
+=======
+        "id": "7ecd9428a53017f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0af94df225fd4b9f",
+>>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "guides/crunchbang++/setup-ssh-keys.md",
+=======
+                "file": "academic/machine-learning/topics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b47dd34436b7bcc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "academic/machine-learning/revision-topics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4eb79439547ce8bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "academic/malay/presentation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaa3a5250449a445",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+>>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +137,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "guides/crunchbang++/setup-ssh-keys.md",
+=======
+                "file": "academic/malay/presentation.md",
+>>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +158,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "guides/crunchbang++/setup-ssh-keys.md",
+=======
+                "file": "academic/malay/presentation.md",
+>>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +185,16 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "guides/crunchbang++/setup-ssh-keys.md"
+=======
+                "file": "academic/malay/presentation.md"
+>>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -146,8 +211,23 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "94e6ccd3264ddb55",
   "lastOpenFiles": [
     "guides/crunchbang++/set-up-custom-dns.md"
+=======
+  "active": "4eb79439547ce8bc",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "academic/malay/presentation.md",
+    "academic/machine-learning/supervised-models/linear-regression.md",
+    "academic/machine-learning/supervised-models/logistic-regression.md",
+    "academic/machine-learning/supervised-models/naive-bayes.md",
+    "academic/operating-systems/debian.md",
+    "academic/malay/vocabulary-work.md",
+    "academic/machine-learning/revision-topics.md",
+    "academic/Untitled.md",
+    "academic/machine-learning/hypothesis-testing/type-1-error.md"
+>>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
   ]
 }
