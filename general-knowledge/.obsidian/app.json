@@ -1,8 +1,12 @@
 {
-  "spellcheck": true,
+  "spellcheck": false,
   "promptDelete": false,
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_attachments",
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "spellcheckLanguages": [
+    "en-GB",
+    "en-GB-oxendict"
+  ]
 }
