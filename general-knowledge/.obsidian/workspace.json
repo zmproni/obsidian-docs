@@ -1,91 +1,52 @@
 {
   "main": {
-    "id": "ab893c29ac15d7fa",
+    "id": "97e57570de4e4b56",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "7be7d64ae89cada5",
+        "id": "7e4be2d2b4c9731e",
         "type": "tabs",
         "children": [
           {
-            "id": "94e6ccd3264ddb55",
-=======
-        "id": "7ecd9428a53017f1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0af94df225fd4b9f",
->>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
+            "id": "26916ac55cafc13c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "guides/crunchbang++/setup-ssh-keys.md",
-=======
-                "file": "academic/machine-learning/topics.md",
+                "file": "guides/crunchbang++/theme-installation.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
           },
           {
-            "id": "b47dd34436b7bcc4",
+            "id": "d45688a587f5acc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academic/machine-learning/revision-topics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4eb79439547ce8bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "academic/malay/presentation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aaa3a5250449a445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
->>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
+                "file": "guides/oracle-cloud/Enable GRUB Timeout.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d3db187a0c1f9a90",
+    "id": "dfb42af31f92be22",
     "type": "split",
     "children": [
       {
-        "id": "b200c0ceb568439f",
+        "id": "138a8ea96268b452",
         "type": "tabs",
         "children": [
           {
-            "id": "76c092f9460d4cbb",
+            "id": "ce3589a5ef91ec23",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -95,7 +56,7 @@
             }
           },
           {
-            "id": "dfa9ba39303eaa71",
+            "id": "48bd40756231510f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -110,7 +71,7 @@
             }
           },
           {
-            "id": "dc5416cb41d67e7e",
+            "id": "a6123dbff8e8684f",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -124,24 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "a477418cf88af42d",
+    "id": "14a2483a6fbb4e47",
     "type": "split",
     "children": [
       {
-        "id": "b63012bffe337e8a",
+        "id": "0959738419fdf677",
         "type": "tabs",
         "children": [
           {
-            "id": "e1223f543821ca3e",
+            "id": "26e10b8c78a74ddd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "guides/crunchbang++/setup-ssh-keys.md",
-=======
-                "file": "academic/malay/presentation.md",
->>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
+                "file": "guides/oracle-cloud/Enable GRUB Timeout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,23 +110,19 @@
             }
           },
           {
-            "id": "bb8141ad629484d5",
+            "id": "486baaed7919ad4e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "guides/crunchbang++/setup-ssh-keys.md",
-=======
-                "file": "academic/malay/presentation.md",
->>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
+                "file": "guides/oracle-cloud/Enable GRUB Timeout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bd2c4dd661f9185e",
+            "id": "3108fb988f8b906c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -180,21 +133,16 @@
             }
           },
           {
-            "id": "965f91bdf7e78bc6",
+            "id": "78ddb99d17186b3e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "guides/crunchbang++/setup-ssh-keys.md"
-=======
-                "file": "academic/malay/presentation.md"
->>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
+                "file": "guides/oracle-cloud/Enable GRUB Timeout.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,23 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "94e6ccd3264ddb55",
+  "active": "d45688a587f5acc2",
   "lastOpenFiles": [
-    "guides/crunchbang++/set-up-custom-dns.md"
-=======
-  "active": "4eb79439547ce8bc",
-  "lastOpenFiles": [
-    "Untitled.md",
-    "academic/malay/presentation.md",
-    "academic/machine-learning/supervised-models/linear-regression.md",
-    "academic/machine-learning/supervised-models/logistic-regression.md",
-    "academic/machine-learning/supervised-models/naive-bayes.md",
-    "academic/operating-systems/debian.md",
-    "academic/malay/vocabulary-work.md",
-    "academic/machine-learning/revision-topics.md",
-    "academic/Untitled.md",
-    "academic/machine-learning/hypothesis-testing/type-1-error.md"
->>>>>>> d4885347e3c4d1643a7b0c4386aa42629ef6542c
+    "guides/crunchbang++/theme-installation.md",
+    "guides/crunchbang++/setup-ssh-keys.md",
+    "academic/operating-systems/debian.md"
   ]
 }
