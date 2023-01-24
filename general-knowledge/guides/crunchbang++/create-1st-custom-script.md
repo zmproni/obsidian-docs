@@ -24,3 +24,6 @@ Now that the file in the `/usr/bin` directory, we can open the terminal from any
 say-hello
 ```
 And with that, we're done creating our first simple command. 
+
+For custom languages and more information, this link may be of use:
+https://stackoverflow.com/questions/2177932/how-do-i-execute-a-bash-script-in-terminal
