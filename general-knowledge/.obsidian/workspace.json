@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3904ad6187db48c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "guides/crunchbang++/create-1st-custom-script.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/oracle-cloud/Enable GRUB Timeout.md",
+                "file": "guides/crunchbang++/create-1st-custom-script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/oracle-cloud/Enable GRUB Timeout.md",
+                "file": "guides/crunchbang++/create-1st-custom-script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guides/oracle-cloud/Enable GRUB Timeout.md"
+                "file": "guides/crunchbang++/create-1st-custom-script.md"
               }
             }
           }
@@ -159,8 +171,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d45688a587f5acc2",
+  "active": "d3904ad6187db48c",
   "lastOpenFiles": [
+    "guides/oracle-cloud/Enable GRUB Timeout.md",
     "guides/crunchbang++/theme-installation.md",
     "guides/crunchbang++/setup-ssh-keys.md",
     "academic/operating-systems/debian.md"
