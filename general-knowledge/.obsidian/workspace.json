@@ -37,14 +37,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guides/crunchbang++/create-1st-custom-script.md",
+                "file": "academic/operating-systems/debian.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "63ffcc4933c21058",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/crunchbang++/create-1st-custom-script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/crunchbang++/create-1st-custom-script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "guides/crunchbang++/create-1st-custom-script.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,11 +175,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3904ad6187db48c",
+  "active": "ce3589a5ef91ec23",
   "lastOpenFiles": [
+    "academic/operating-systems/linux-permission.md",
+    "academic/operating-systems/debian.md",
     "guides/oracle-cloud/Enable GRUB Timeout.md",
+    "guides/crunchbang++/create-1st-custom-script.md",
     "guides/crunchbang++/theme-installation.md",
-    "guides/crunchbang++/setup-ssh-keys.md",
-    "academic/operating-systems/debian.md"
+    "guides/crunchbang++/setup-ssh-keys.md"
   ]
 }
