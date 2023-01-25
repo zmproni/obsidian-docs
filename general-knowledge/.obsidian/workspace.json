@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "26916ac55cafc13c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guides/crunchbang++/theme-installation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d45688a587f5acc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guides/oracle-cloud/Enable GRUB Timeout.md",
+                "file": "guides/oracle-cloud/enable-grub-timeout.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,22 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "academic/operating-systems/debian.md",
+                "file": "guides/oracle-cloud/enable-grub-timeout.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "63ffcc4933c21058",
+            "id": "3722ee8e1d5034ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "guides/oracle-cloud/increase-boot-partition-size.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "guides/oracle-cloud/increase-boot-partition-size.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "guides/oracle-cloud/increase-boot-partition-size.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "guides/oracle-cloud/increase-boot-partition-size.md"
+              }
             }
           }
         ]
@@ -175,13 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce3589a5ef91ec23",
+  "active": "3722ee8e1d5034ee",
   "lastOpenFiles": [
-    "academic/operating-systems/linux-permission.md",
+    "guides/oracle-cloud/enable-grub-timeout.md",
+    "guides/oracle-cloud/increase-boot-partition-size.md",
     "academic/operating-systems/debian.md",
-    "guides/oracle-cloud/Enable GRUB Timeout.md",
-    "guides/crunchbang++/create-1st-custom-script.md",
     "guides/crunchbang++/theme-installation.md",
+    "academic/operating-systems/linux-permission.md",
+    "guides/crunchbang++/create-1st-custom-script.md",
     "guides/crunchbang++/setup-ssh-keys.md"
   ]
 }
