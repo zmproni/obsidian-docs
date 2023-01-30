@@ -4,27 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ad2cdd30295a2c54",
+        "id": "c91ddceaaf5df93a",
         "type": "tabs",
         "children": [
           {
-            "id": "64cf1cd4b79c7c17",
+            "id": "665b89bb657c59c5",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
-              "type": "empty",
-              "state": {}
-=======
               "type": "markdown",
               "state": {
-                "file": "personal-interest/operating-systems/debian.md",
+                "file": "personal-interest/rust-book/ch01.md",
                 "mode": "source",
                 "source": false
               }
->>>>>>> Stashed changes
+            }
+          },
+          {
+            "id": "067c0d8c7906bcdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "personal-interest/rust-book/ch03.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,10 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "personal-interest/operating-systems/debian.md",
->>>>>>> Stashed changes
+                "file": "personal-interest/rust-book/ch03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-=======
-                "file": "personal-interest/operating-systems/debian.md",
->>>>>>> Stashed changes
+                "file": "personal-interest/rust-book/ch03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,13 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
-              "state": {}
-=======
               "state": {
-                "file": "personal-interest/operating-systems/debian.md"
+                "file": "personal-interest/rust-book/ch03.md"
               }
->>>>>>> Stashed changes
             }
           }
         ]
@@ -161,22 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64cf1cd4b79c7c17",
+  "active": "067c0d8c7906bcdc",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "personal-interest/operating-systems/debian.md",
-    "personal-interest/operating-systems/linux-permission.md",
-=======
-    "personal-interest/operating-systems/linux-permission.md",
-    "personal-interest/operating-systems/debian.md",
->>>>>>> Stashed changes
     "personal-interest/rust-book/foreword.md",
-    "personal-interest/rust-book/ch02.md",
     "personal-interest/rust-book/ch01.md",
+    "personal-interest/rust-book/ch02.md",
+    "personal-interest/rust-book/ch03.md",
+    "personal-interest/operating-systems/debian.md",
+    "personal-interest/operating-systems/linux-permission.md",
     "cheat-sheet/webp-commands.md",
     "cheat-sheet/git-commands.md",
     "cheat-sheet/debian/terminal-commands.md",
-    "guides/oracle-cloud/install-rust.md",
-    "cheat-sheet/debian/files.md"
+    "guides/oracle-cloud/install-rust.md"
   ]
 }
