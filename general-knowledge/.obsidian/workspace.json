@@ -4,47 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "7e4be2d2b4c9731e",
+        "id": "ad2cdd30295a2c54",
         "type": "tabs",
         "children": [
           {
-            "id": "d45688a587f5acc2",
+            "id": "64cf1cd4b79c7c17",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
+              "type": "empty",
+              "state": {}
+=======
               "type": "markdown",
               "state": {
-                "file": "guides/oracle-cloud/enable-grub-timeout.md",
+                "file": "personal-interest/operating-systems/debian.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d3904ad6187db48c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guides/oracle-cloud/enable-grub-timeout.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3722ee8e1d5034ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "guides/oracle-cloud/increase-boot-partition-size.md",
-                "mode": "source",
-                "source": false
-              }
+>>>>>>> Stashed changes
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +90,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/oracle-cloud/increase-boot-partition-size.md",
+<<<<<<< Updated upstream
+=======
+                "file": "personal-interest/operating-systems/debian.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/oracle-cloud/increase-boot-partition-size.md",
+<<<<<<< Updated upstream
+=======
+                "file": "personal-interest/operating-systems/debian.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
+              "state": {}
+=======
               "state": {
-                "file": "guides/oracle-cloud/increase-boot-partition-size.md"
+                "file": "personal-interest/operating-systems/debian.md"
               }
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -171,14 +161,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3722ee8e1d5034ee",
+  "active": "64cf1cd4b79c7c17",
   "lastOpenFiles": [
-    "guides/oracle-cloud/enable-grub-timeout.md",
-    "guides/oracle-cloud/increase-boot-partition-size.md",
-    "academic/operating-systems/debian.md",
-    "guides/crunchbang++/theme-installation.md",
-    "academic/operating-systems/linux-permission.md",
-    "guides/crunchbang++/create-1st-custom-script.md",
-    "guides/crunchbang++/setup-ssh-keys.md"
+<<<<<<< Updated upstream
+    "personal-interest/operating-systems/debian.md",
+    "personal-interest/operating-systems/linux-permission.md",
+=======
+    "personal-interest/operating-systems/linux-permission.md",
+    "personal-interest/operating-systems/debian.md",
+>>>>>>> Stashed changes
+    "personal-interest/rust-book/foreword.md",
+    "personal-interest/rust-book/ch02.md",
+    "personal-interest/rust-book/ch01.md",
+    "cheat-sheet/webp-commands.md",
+    "cheat-sheet/git-commands.md",
+    "cheat-sheet/debian/terminal-commands.md",
+    "guides/oracle-cloud/install-rust.md",
+    "cheat-sheet/debian/files.md"
   ]
 }

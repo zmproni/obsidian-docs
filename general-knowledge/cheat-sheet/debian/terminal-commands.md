@@ -30,3 +30,7 @@ cd $(echo $JAVA_HOME)
 ```
 Make use of echos as input for other commands
 
+## $ grep
+
+## $ lsusb
+See all devices connected to your PC. 
