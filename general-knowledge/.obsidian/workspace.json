@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "guides/crunchbang++/setup-ssh-keys.md",
+                "file": "personal-interest/rust-book/ch03.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "guides/crunchbang++/setup-ssh-keys.md",
+                "file": "personal-interest/rust-book/ch03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "guides/crunchbang++/setup-ssh-keys.md",
+                "file": "personal-interest/rust-book/ch03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "guides/crunchbang++/setup-ssh-keys.md"
+                "file": "personal-interest/rust-book/ch03.md"
               }
             }
           }
@@ -174,14 +174,14 @@
   "active": "beb69e24e704f1a1",
   "lastOpenFiles": [
     "personal-interest/rust-book/ch05.md",
-    "personal-interest/rust-book/ch02.md",
-    "personal-interest/rust-book/ch03.md",
     "personal-interest/rust-book/ch04.md",
+    "personal-interest/rust-book/ch03.md",
+    "guides/crunchbang++/setup-ssh-keys.md",
+    "personal-interest/rust-book/ch02.md",
     "personal-interest/rust-book/Untitled.canvas",
     "personal-interest/rust-book/foreword.md",
     "personal-interest/rust-book/ch01.md",
     "personal-interest/operating-systems/debian.md",
-    "personal-interest/operating-systems/linux-permission.md",
-    "cheat-sheet/webp-commands.md"
+    "personal-interest/operating-systems/linux-permission.md"
   ]
 }
