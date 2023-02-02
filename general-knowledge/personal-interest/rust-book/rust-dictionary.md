@@ -1,0 +1,30 @@
+# Rust Dictionary 
+- Cargo 
+- Macros
+- let 
+- match 
+- functions 
+- methods
+- crates
+- [[ch03|statements]]
+- [[ch03|expressions]]
+- constants 
+- shadowing
+- data types 
+- tuples
+- control flow
+- ownership 
+- borrowing 
+- references
+- deep copy
+- immutable
+- mutable
+- lifetimes
+- structs
+- struct
+- instance 
+- instantiating
+- update syntaxt
+- method syntaxt
+- implementation
+- impl

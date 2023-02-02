@@ -10,7 +10,9 @@ I would create a file called say-hello, then enter the following lines in it:
 ```bash 
 echo Hello world!
 ```
-Save and exit <kbd>Ctrl</kbd> + <kbd>S</kbd> , <kbd>Ctrl</kbd> + <kbd>X</kbd>. Afterwards, we need to change the properties of this file so that we allow the file to be run as a program. We can do this in the terminal though the following command:
+Save and exit <kbd>Ctrl</kbd> + <kbd>S</kbd> , <kbd>Ctrl</kbd> + <kbd>X</kbd>. Afterwards, we need to change the properties of this file so that we allow the f({
+	
+})ile to be run as a program. We can do this in the terminal though the following command:
 ```bash
 chmod u+x say-hello
 ```

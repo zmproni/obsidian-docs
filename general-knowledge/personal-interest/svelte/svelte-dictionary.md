@@ -1,0 +1,47 @@
+# Svelte Dictionary
+- components
+- attributes
+- dynamic attributes
+- shorthand attributes
+- styling
+- nested components
+- HTML tags
+- reactivity
+- assignment 
+- declaration
+- statements
+- object and array reactivity
+- props
+- default values
+- spread props
+- if 
+- else 
+- else if 
+- each block
+- keyd each block
+- await block
+- race condition
+- promise
+- fetch
+- DOM events
+- event handlers
+- inline event handlers
+- event modifiers
+- component events
+- event dispatcher
+- event forwarding
+- form binding 
+- lifecycle
+- onMount
+- onDestroy
+- beforeUpdate
+- afterUpdate
+- tick
+- stores
+- subscription
+- writable
+- auto subscriptions
+- scope 
+- top-level scope
+- derived
+- custom stores
