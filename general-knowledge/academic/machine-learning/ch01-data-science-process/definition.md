@@ -1,0 +1,2 @@
+# Data science definition
+A cross-disciplinary practice that merges data engineering, mining, descriptive statistics and machine learning. Its purpose is to enable **data driven decision making** by providing methodologies and tools to encode data from machine form to human insig, knowledge and understanding.  
