@@ -1,2 +1,2 @@
 # Type 1 Error 
-Refers to the statistical name given to False Positives. Occurs when a test incorrectly rejects a true null hypothesis. In other words, it's when a test declares that an effect exists when in fact it does not. The probability of making a Type 1 error is represented by the significance level (α), which is usually set at 0.05.
+Refers to the statistical name given to **False Positives**. Occurs when a test incorrectly rejects a true null hypothesis. In other words, it's when a test declares that an effect exists when in fact it does not. The probability of making a Type 1 error is represented by the significance level (α), which is usually set at 0.05.

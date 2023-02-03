@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c91ddceaaf5df93a",
+        "id": "5ea48953e3e1d459",
         "type": "tabs",
         "children": [
           {
-            "id": "c67ef69db237e227",
+            "id": "b58905b5e0fb57e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal-interest/svelte/svelte-dictionary.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d04df1a5849af5d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "personal-interest/svelte/sveltekit-demo.md",
+                "file": "academic/machine-learning/ch01-data-science-process/terms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-interest/svelte/sveltekit-demo.md",
+                "file": "academic/machine-learning/ch01-data-science-process/terms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-interest/svelte/sveltekit-demo.md",
+                "file": "academic/machine-learning/ch01-data-science-process/terms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-interest/svelte/sveltekit-demo.md"
+                "file": "academic/machine-learning/ch01-data-science-process/terms.md"
               }
             }
           }
@@ -159,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d04df1a5849af5d8",
+  "active": "b58905b5e0fb57e3",
   "lastOpenFiles": [
-    "personal-interest/svelte/sveltekit-dictionary.md",
-    "personal-interest/svelte/svelte-dictionary.md",
-    "personal-interest/rust-book/rust-dictionary.md",
-    "personal-interest/rust-book/ch03.md",
-    "personal-interest/rust-book/ch02.md",
-    "personal-interest/svelte/sveltekit-demo.md",
-    "personal-interest/operating-systems/linux-permission.md",
-    "personal-interest/operating-systems/debian.md",
-    "personal-interest/rust-book/foreword.md",
-    "personal-interest/rust-book/ch05.md"
+    "academic/machine-learning/ch01-data-science-process/project-stages.md",
+    "academic/machine-learning/ch01-data-science-process/project-roles.md",
+    "academic/machine-learning/ch01-data-science-process/definition.md",
+    "academic/machine-learning/ch01-data-science-process/terms.md",
+    "academic/machine-learning/model-evaluation/classification/precision.md",
+    "academic/machine-learning/hypothesis-testing/type-2-error.md",
+    "academic/machine-learning/hypothesis-testing/type-1-error.md",
+    "academic/machine-learning/model-evaluation/classification/recall.md",
+    "academic/machine-learning/ch01-data-science-process/expectations.md",
+    "academic/machine-learning/Untitled.md"
   ]
 }

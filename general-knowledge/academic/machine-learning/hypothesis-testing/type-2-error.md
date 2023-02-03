@@ -1,2 +1,2 @@
 # Type 2 Errors
-Is the statistical name given to false negatives. Occurs when a test incorrectly fails to reject a false null hypothesis. In other words, it's when a test declares that an effect does not exist when in fact it does. The probability of making a Type 2 error is represented by the probability of beta (β), which is related to the power of the test.
+Is the statistical name given to **false negatives**. Occurs when a test incorrectly fails to reject a false null hypothesis. In other words, it's when a test declares that an effect does not exist when in fact it does. The probability of making a Type 2 error is represented by the probability of beta (β), which is related to the power of the test.
