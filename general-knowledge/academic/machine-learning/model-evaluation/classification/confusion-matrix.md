@@ -4,6 +4,7 @@ A confusion matrix is a table where all predicted values are separated by their 
 ## Two Class Confusion Matrix
 
 The table below indicates a classification task where only two distinct classes are present.
+
 | Pre\\Act         | Positive | Negative |
 | -------- | -------- | -------- |
 | Positive | TP      | FP       |
@@ -17,6 +18,7 @@ The table below indicates a classification task where only two distinct classes 
 ## Multi-Class Confusion Matrix 
 
 An example of a confusion matrix calculating multiple classes
+
 | Pre\\Act | Class 1   | Class 2   | Class 3   |
 | -------- | --- | --- | --- |
 | Class 1        | TP | a  | b  |
@@ -24,6 +26,7 @@ An example of a confusion matrix calculating multiple classes
 | Class 3        | e  | f | TP    |
 
 It is common practice to calculate a given performance matrix for every class and then use the average. If we wanted to calculate a given performance matrix for class 1 the roles would look like the following 
+
 | Pre\\Act | Class 1   | Class 2   | Class 3   |
 | -------- | --- | --- | --- |
 | **Class 1**        | TP | FP  | FP  |
@@ -31,6 +34,7 @@ It is common practice to calculate a given performance matrix for every class an
 | **Class 3**        | FN | c | d    |
 
 If the class you wanted to calculate the metric for was Class 2:
+
 | Pre\\Act | Class 1   | Class 2   | Class 3   |
 | -------- | --- | --- | --- |
 | **Class 1**        | a | FN  | a  |
@@ -44,12 +48,14 @@ All other [[_model-evaluation|classification task evaluation]] matrix derive the
 - [[F1]]
 
 **Example 1**:
+
 | Pre\\Act | Positive | Negative |
 | -------- | -------- | -------- |
 | **Positive** | 428      | 29       |
 | **Negative** | 100      | 290      |
 
 **Example 2:**
+
 | Pre\\Act | Class 1   | Class 2   | Class 3   |
 | -------- | --- | --- | --- |
 | **Class 1**        | 912 | 28  | 99  |

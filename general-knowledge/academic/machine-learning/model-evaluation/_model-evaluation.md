@@ -1,6 +1,6 @@
 # Choosing Model Evaluation Techniques 
 
-> Model evaluation the act of measuring of the model's performance given the business goal and modelling technique 
+> Model evaluation the act of **measuring** of the model's **performance** given the business goal and modelling technique 
 
 Mapping problem to machine learning task -> Evaluating model -> Validating model
 

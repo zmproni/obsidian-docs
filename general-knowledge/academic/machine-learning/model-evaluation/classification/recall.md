@@ -13,6 +13,7 @@ Easy way to differentiate with its counterpart [[precision]] is:
 Recall is used when the goal is to minimise the number of false negatives, it measures the ability of the model to correctly identify all relevant instances. Recall is particularly important when the cost of missing a positive instance is high, such as in medical diagnosis, where failing to identify a disease could have severe consequences.
 
 **Example 1**:
+
 | Pre\\Act | Positive | Negative |
 | -------- | -------- | -------- |
 | **Positive** | 428      | 29       |

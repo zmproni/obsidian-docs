@@ -5,8 +5,5 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "_attachments",
   "newLinkFormat": "shortest",
-  "spellcheckLanguages": [
-    "en-GB",
-    "en-GB-oxendict"
-  ]
+  "spellcheckLanguages": null
 }

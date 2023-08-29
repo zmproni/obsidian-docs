@@ -11,3 +11,8 @@ $precision={TP \over TP+FP}$
 
 $recall = {TP \over TP+FN}$
 
+|Predicted/Actual|Positive|Negative|
+|---|---|---|
+|Positive|TP|FP|
+|Negative|FN|TN|
+
