@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal-interest/mongodb/install-ubuntu-22.04.md",
+                "file": "personal-interest/mongodb/commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "14a2483a6fbb4e47",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal-interest/mongodb/install-ubuntu-22.04.md",
+                "file": "personal-interest/mongodb/commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal-interest/mongodb/install-ubuntu-22.04.md",
+                "file": "personal-interest/mongodb/commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal-interest/mongodb/install-ubuntu-22.04.md"
+                "file": "personal-interest/mongodb/commands.md"
               }
             }
           }
@@ -170,10 +170,17 @@
   },
   "active": "fa061c4aadb0801b",
   "lastOpenFiles": [
+    "personal-interest/docker/reference-guide.md",
+    "personal-interest/mongodb/commands.md",
+    "personal-interest/mongodb/install-ubuntu-22.04.md",
+    "Untitled.canvas",
+    "personal-interest/prisma/_notes.md",
+    "personal-interest/docker",
+    "personal-interest/customer-churn/Untitled.md",
+    "personal-interest/prisma/ch01-initialising-project.md",
+    "personal-interest/svelte/counter-doneboredly.md",
     "personal-interest/operating-systems/linux-permission.md",
     "personal-interest/operating-systems/debian.md",
-    "personal-interest/mongodb/install-ubuntu-22.04.md",
-    "personal-interest/mongodb/commands.md",
     "cheat-sheet/debian/terminal-commands.md",
     "cheat-sheet/debian/files.md",
     "cheat-sheet/git-commands.md",
@@ -188,21 +195,14 @@
     "academic/machine-learning/data-science-process/definition.md",
     "academic/machine-learning/data-science-process",
     "personal-interest/rust-book/foreword.md",
-    "Untitled.canvas",
     "2023-08-29.md",
     "personal-interest/rust-book/rust-dictionary.md",
     "personal-interest/rust-book/ch03.md",
     "personal-interest/rust-book/ch02.md",
     "personal-interest/rust-book/ch01.md",
-    "personal-interest/rust-book/ch04.md",
-    "personal-interest/rust-book/ch05.md",
     "guides/crunchbang++/img/context-menu-openbox.webp",
     "guides/crunchbang++/img/theme-showcase-1.webp",
     "guides/crunchbang++/img/theme-showcase-2.webp",
-    "guides/oracle-cloud/increase-boot-partition-size.md",
-    "guides/oracle-cloud/enable-grub-timeout.md",
-    "personal-interest/prisma/ch03-client-basics.md",
-    "academic/machine-learning/model-evaluation/classification/accuracy.md",
     "personal-interest/prisma",
     "personal-interest/foundryvtt"
   ]
